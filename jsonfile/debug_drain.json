@@ -1,0 +1,2018 @@
+{
+  "uuid": "b08ff3f7-807e-43e6-84d3-fe7707afdd3d",
+  "content": {
+    "return": 0.13917480999999982,
+    "sortino_ratio": 24.12203016257208,
+    "max_drawdown": 0.16323369732670057,
+    "portfolio_value": 1139174.8099999998,
+    "sharpe_ratio": 3.090084236216414,
+    "benchmark": "nan",
+    "cash": 13101.169999999856,
+    "datetime": 1075593600000,
+    "beta": 0,
+    "information_ratio": "nan",
+    "downside_risk": 0.10172711201120813,
+    "positions": [
+      {
+        "quantity": 3327,
+        "total_cost": 6.52,
+        "value": 21692.039999999997,
+        "avg_cost": 6.52,
+        "total_commission": 0,
+        "sid": "a000511SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.52,
+            "datetime": 1075593600,
+            "value": 21692.039999999997,
+            "quantity": 3327
+          }
+        ]
+      },
+      {
+        "quantity": 2113,
+        "total_cost": 10.17,
+        "value": 21045.480000000003,
+        "avg_cost": 10.17,
+        "total_commission": 0,
+        "sid": "a600875SH",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 10.17,
+            "datetime": 1072915200,
+            "value": 21489.21,
+            "quantity": 2113
+          }
+        ]
+      },
+      {
+        "quantity": 4443,
+        "total_cost": 4.34,
+        "value": 20659.95,
+        "avg_cost": 4.34,
+        "total_commission": 0,
+        "sid": "a000568SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.34,
+            "datetime": 1067644800,
+            "value": 19282.62,
+            "quantity": 4443
+          }
+        ]
+      },
+      {
+        "quantity": 5668,
+        "total_cost": 4.65,
+        "value": 26356.2,
+        "avg_cost": 4.65,
+        "total_commission": 0,
+        "sid": "a000627SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.65,
+            "datetime": 1075593600,
+            "value": 26356.2,
+            "quantity": 5668
+          }
+        ]
+      },
+      {
+        "quantity": 2586,
+        "total_cost": 7.64,
+        "value": 19705.32,
+        "avg_cost": 7.64,
+        "total_commission": 0,
+        "sid": "a600755SH",
+        "open_at": 1054425600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.64,
+            "datetime": 1054425600,
+            "value": 19757.04,
+            "quantity": 2586
+          }
+        ]
+      },
+      {
+        "quantity": 2048,
+        "total_cost": 11.75,
+        "value": 24064,
+        "avg_cost": 11.75,
+        "total_commission": 0,
+        "sid": "a600255SH",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.75,
+            "datetime": 1075593600,
+            "value": 24064,
+            "quantity": 2048
+          }
+        ]
+      },
+      {
+        "quantity": 2327,
+        "total_cost": 7.7,
+        "value": 27295.710000000003,
+        "avg_cost": 7.7,
+        "total_commission": 0,
+        "sid": "a000630SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.7,
+            "datetime": 1067644800,
+            "value": 17917.9,
+            "quantity": 2327
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 20.94,
+        "value": 8.28,
+        "avg_cost": 10.47,
+        "total_commission": 0,
+        "sid": "a600531SH",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 13.55,
+            "datetime": 1057017600,
+            "value": 20203.05,
+            "quantity": 1491
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 12.16,
+        "value": 6.65,
+        "avg_cost": 6.08,
+        "total_commission": 0,
+        "sid": "a000690SZ",
+        "open_at": 1070236800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.9,
+            "datetime": 1070236800,
+            "value": 18095.3,
+            "quantity": 3067
+          }
+        ]
+      },
+      {
+        "quantity": 5449,
+        "total_cost": 3.85,
+        "value": 37925.04,
+        "avg_cost": 3.85,
+        "total_commission": 0,
+        "sid": "a000898SZ",
+        "open_at": 1049155200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 3.85,
+            "datetime": 1049155200,
+            "value": 20978.65,
+            "quantity": 5449
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 25.42,
+        "value": 17.14,
+        "avg_cost": 12.71,
+        "total_commission": 0,
+        "sid": "a600066SH",
+        "open_at": 1064966400,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.79,
+            "datetime": 1064966400,
+            "value": 18474.93,
+            "quantity": 1567
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 25.76,
+        "value": 17.73,
+        "avg_cost": 12.88,
+        "total_commission": 0,
+        "sid": "a000997SZ",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 13.05,
+            "datetime": 1057017600,
+            "value": 16782.3,
+            "quantity": 1286
+          }
+        ]
+      },
+      {
+        "quantity": 3599,
+        "total_cost": 4.95,
+        "value": 25013.05,
+        "avg_cost": 4.95,
+        "total_commission": 0,
+        "sid": "a000612SZ",
+        "open_at": 1059696000,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.95,
+            "datetime": 1059696000,
+            "value": 17815.05,
+            "quantity": 3599
+          }
+        ]
+      },
+      {
+        "quantity": 2844,
+        "total_cost": 6.03,
+        "value": 18997.92,
+        "avg_cost": 6.03,
+        "total_commission": 0,
+        "sid": "a600655SH",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.03,
+            "datetime": 1067644800,
+            "value": 17149.32,
+            "quantity": 2844
+          }
+        ]
+      },
+      {
+        "quantity": 3252,
+        "total_cost": 6.03,
+        "value": 26666.399999999998,
+        "avg_cost": 6.03,
+        "total_commission": 0,
+        "sid": "a000960SZ",
+        "open_at": 1054425600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.03,
+            "datetime": 1054425600,
+            "value": 19609.56,
+            "quantity": 3252
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 12.35,
+        "value": 6.47,
+        "avg_cost": 6.175,
+        "total_commission": 0,
+        "sid": "a000755SZ",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.88,
+            "datetime": 1072915200,
+            "value": 20674.079999999998,
+            "quantity": 3516
+          }
+        ]
+      },
+      {
+        "quantity": 2352,
+        "total_cost": 7.35,
+        "value": 22955.52,
+        "avg_cost": 7.35,
+        "total_commission": 0,
+        "sid": "a000012SZ",
+        "open_at": 1070236800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.35,
+            "datetime": 1070236800,
+            "value": 17287.2,
+            "quantity": 2352
+          }
+        ]
+      },
+      {
+        "quantity": 2217,
+        "total_cost": 8.36,
+        "value": 26737.02,
+        "avg_cost": 8.36,
+        "total_commission": 0,
+        "sid": "a600123SH",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 8.36,
+            "datetime": 1057017600,
+            "value": 18534.12,
+            "quantity": 2217
+          }
+        ]
+      },
+      {
+        "quantity": 4704,
+        "total_cost": 4.74,
+        "value": 22296.960000000003,
+        "avg_cost": 4.74,
+        "total_commission": 0,
+        "sid": "a000683SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.74,
+            "datetime": 1075593600,
+            "value": 22296.960000000003,
+            "quantity": 4704
+          }
+        ]
+      },
+      {
+        "quantity": 4726,
+        "total_cost": 4.7,
+        "value": 22212.2,
+        "avg_cost": 4.7,
+        "total_commission": 0,
+        "sid": "a000573SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.7,
+            "datetime": 1075593600,
+            "value": 22212.2,
+            "quantity": 4726
+          }
+        ]
+      },
+      {
+        "quantity": 4557,
+        "total_cost": 4.9,
+        "value": 22329.300000000003,
+        "avg_cost": 4.9,
+        "total_commission": 0,
+        "sid": "a600814SH",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.9,
+            "datetime": 1075593600,
+            "value": 22329.300000000003,
+            "quantity": 4557
+          }
+        ]
+      },
+      {
+        "quantity": 3571,
+        "total_cost": 7.42,
+        "value": 26496.82,
+        "avg_cost": 7.42,
+        "total_commission": 0,
+        "sid": "a000006SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.42,
+            "datetime": 1075593600,
+            "value": 26496.82,
+            "quantity": 3571
+          }
+        ]
+      },
+      {
+        "quantity": 3292,
+        "total_cost": 5.27,
+        "value": 20311.64,
+        "avg_cost": 5.27,
+        "total_commission": 0,
+        "sid": "a600117SH",
+        "open_at": 1054425600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.27,
+            "datetime": 1054425600,
+            "value": 17348.84,
+            "quantity": 3292
+          }
+        ]
+      },
+      {
+        "quantity": 2755,
+        "total_cost": 6.29,
+        "value": 20276.8,
+        "avg_cost": 6.29,
+        "total_commission": 0,
+        "sid": "a600151SH",
+        "open_at": 1070236800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.29,
+            "datetime": 1070236800,
+            "value": 17328.95,
+            "quantity": 2755
+          }
+        ]
+      },
+      {
+        "quantity": 3710,
+        "total_cost": 5.06,
+        "value": 21740.600000000002,
+        "avg_cost": 5.06,
+        "total_commission": 0,
+        "sid": "a000751SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.06,
+            "datetime": 1067644800,
+            "value": 18772.6,
+            "quantity": 3710
+          }
+        ]
+      },
+      {
+        "quantity": 2205,
+        "total_cost": 10.36,
+        "value": 22843.8,
+        "avg_cost": 10.36,
+        "total_commission": 0,
+        "sid": "a000001SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 10.36,
+            "datetime": 1075593600,
+            "value": 22843.8,
+            "quantity": 2205
+          }
+        ]
+      },
+      {
+        "quantity": 1569,
+        "total_cost": 11.58,
+        "value": 20820.63,
+        "avg_cost": 11.58,
+        "total_commission": 0,
+        "sid": "a000933SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.58,
+            "datetime": 1067644800,
+            "value": 18169.02,
+            "quantity": 1569
+          }
+        ]
+      },
+      {
+        "quantity": 1866,
+        "total_cost": 11.05,
+        "value": 16122.240000000002,
+        "avg_cost": 11.05,
+        "total_commission": 0,
+        "sid": "a600725SH",
+        "open_at": 1054425600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.05,
+            "datetime": 1054425600,
+            "value": 20619.300000000003,
+            "quantity": 1866
+          }
+        ]
+      },
+      {
+        "quantity": 1,
+        "total_cost": 10.23,
+        "value": 6.93,
+        "avg_cost": 5.115,
+        "total_commission": 0,
+        "sid": "a600179SH",
+        "open_at": 1062374400,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.13,
+            "datetime": 1062374400,
+            "value": 18293.579999999998,
+            "quantity": 3566
+          }
+        ]
+      },
+      {
+        "quantity": 4141,
+        "total_cost": 4.43,
+        "value": 27413.420000000002,
+        "avg_cost": 4.43,
+        "total_commission": 0,
+        "sid": "a000878SZ",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.43,
+            "datetime": 1057017600,
+            "value": 18344.629999999997,
+            "quantity": 4141
+          }
+        ]
+      },
+      {
+        "quantity": 3173,
+        "total_cost": 5.89,
+        "value": 20402.39,
+        "avg_cost": 5.89,
+        "total_commission": 0,
+        "sid": "a600550SH",
+        "open_at": 1062374400,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.89,
+            "datetime": 1062374400,
+            "value": 18688.969999999998,
+            "quantity": 3173
+          }
+        ]
+      },
+      {
+        "quantity": 2838,
+        "total_cost": 8.69,
+        "value": 24662.219999999998,
+        "avg_cost": 8.69,
+        "total_commission": 0,
+        "sid": "a600748SH",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 8.69,
+            "datetime": 1075593600,
+            "value": 24662.219999999998,
+            "quantity": 2838
+          }
+        ]
+      },
+      {
+        "quantity": 2692,
+        "total_cost": 8.2,
+        "value": 22074.399999999998,
+        "avg_cost": 8.2,
+        "total_commission": 0,
+        "sid": "a600761SH",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 8.2,
+            "datetime": 1075593600,
+            "value": 22074.399999999998,
+            "quantity": 2692
+          }
+        ]
+      },
+      {
+        "quantity": 4176,
+        "total_cost": 26.85,
+        "value": 25849.440000000002,
+        "avg_cost": 5.37,
+        "total_commission": 0,
+        "sid": "a600110SH",
+        "open_at": 1051747200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.08,
+            "datetime": 1051747200,
+            "value": 20295.04,
+            "quantity": 3338
+          }
+        ]
+      },
+      {
+        "quantity": 3998,
+        "total_cost": 5.41,
+        "value": 23148.420000000002,
+        "avg_cost": 5.41,
+        "total_commission": 0,
+        "sid": "a000548SZ",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.41,
+            "datetime": 1072915200,
+            "value": 21629.18,
+            "quantity": 3998
+          }
+        ]
+      },
+      {
+        "quantity": 2475,
+        "total_cost": 7.05,
+        "value": 23339.25,
+        "avg_cost": 7.05,
+        "total_commission": 0,
+        "sid": "a000807SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.05,
+            "datetime": 1067644800,
+            "value": 17448.75,
+            "quantity": 2475
+          }
+        ]
+      },
+      {
+        "quantity": 2693,
+        "total_cost": 7.9,
+        "value": 25421.92,
+        "avg_cost": 7.9,
+        "total_commission": 0,
+        "sid": "a000616SZ",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.9,
+            "datetime": 1072915200,
+            "value": 21274.7,
+            "quantity": 2693
+          }
+        ]
+      },
+      {
+        "quantity": 2566,
+        "total_cost": 8.14,
+        "value": 23992.1,
+        "avg_cost": 8.14,
+        "total_commission": 0,
+        "sid": "a600162SH",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 8.14,
+            "datetime": 1057017600,
+            "value": 20887.24,
+            "quantity": 2566
+          }
+        ]
+      },
+      {
+        "quantity": 3102,
+        "total_cost": 6.18,
+        "value": 23078.88,
+        "avg_cost": 6.18,
+        "total_commission": 0,
+        "sid": "a000758SZ",
+        "open_at": 1054425600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.18,
+            "datetime": 1054425600,
+            "value": 19170.36,
+            "quantity": 3102
+          }
+        ]
+      },
+      {
+        "quantity": 4578,
+        "total_cost": 4.93,
+        "value": 22569.539999999997,
+        "avg_cost": 4.93,
+        "total_commission": 0,
+        "sid": "a000818SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 4.93,
+            "datetime": 1075593600,
+            "value": 22569.539999999997,
+            "quantity": 4578
+          }
+        ]
+      },
+      {
+        "quantity": 3408,
+        "total_cost": 5.39,
+        "value": 21197.76,
+        "avg_cost": 5.39,
+        "total_commission": 0,
+        "sid": "a600883SH",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.39,
+            "datetime": 1067644800,
+            "value": 18369.12,
+            "quantity": 3408
+          }
+        ]
+      },
+      {
+        "quantity": 2663,
+        "total_cost": 7.51,
+        "value": 40317.82,
+        "avg_cost": 7.51,
+        "total_commission": 0,
+        "sid": "a600585SH",
+        "open_at": 1049155200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.51,
+            "datetime": 1049155200,
+            "value": 19999.13,
+            "quantity": 2663
+          }
+        ]
+      },
+      {
+        "quantity": 1673,
+        "total_cost": 10.93,
+        "value": 17901.1,
+        "avg_cost": 10.93,
+        "total_commission": 0,
+        "sid": "a000528SZ",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 10.93,
+            "datetime": 1072915200,
+            "value": 18285.89,
+            "quantity": 1673
+          }
+        ]
+      },
+      {
+        "quantity": 3256,
+        "total_cost": 5.82,
+        "value": 22433.84,
+        "avg_cost": 5.82,
+        "total_commission": 0,
+        "sid": "a000831SZ",
+        "open_at": 1067644800,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.82,
+            "datetime": 1067644800,
+            "value": 18949.920000000002,
+            "quantity": 3256
+          }
+        ]
+      },
+      {
+        "quantity": 1766,
+        "total_cost": 11.99,
+        "value": 27920.46,
+        "avg_cost": 11.99,
+        "total_commission": 0,
+        "sid": "a600770SH",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.99,
+            "datetime": 1072915200,
+            "value": 21174.34,
+            "quantity": 1766
+          }
+        ]
+      },
+      {
+        "quantity": 1909,
+        "total_cost": 11.63,
+        "value": 22201.670000000002,
+        "avg_cost": 11.63,
+        "total_commission": 0,
+        "sid": "a000937SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 11.63,
+            "datetime": 1075593600,
+            "value": 22201.670000000002,
+            "quantity": 1909
+          }
+        ]
+      },
+      {
+        "quantity": 1405,
+        "total_cost": 15.18,
+        "value": 23604,
+        "avg_cost": 15.18,
+        "total_commission": 0,
+        "sid": "a000839SZ",
+        "open_at": 1072915200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 15.18,
+            "datetime": 1072915200,
+            "value": 21327.899999999998,
+            "quantity": 1405
+          }
+        ]
+      },
+      {
+        "quantity": 4032,
+        "total_cost": 5.33,
+        "value": 36207.36,
+        "avg_cost": 5.33,
+        "total_commission": 0,
+        "sid": "a600362SH",
+        "open_at": 1051747200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.33,
+            "datetime": 1051747200,
+            "value": 21490.56,
+            "quantity": 4032
+          }
+        ]
+      },
+      {
+        "quantity": 2427,
+        "total_cost": 7.48,
+        "value": 17959.8,
+        "avg_cost": 7.48,
+        "total_commission": 0,
+        "sid": "a600150SH",
+        "open_at": 1049155200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.48,
+            "datetime": 1049155200,
+            "value": 18153.960000000003,
+            "quantity": 2427
+          }
+        ]
+      },
+      {
+        "quantity": 2725,
+        "total_cost": 7.1,
+        "value": 22263.25,
+        "avg_cost": 7.1,
+        "total_commission": 0,
+        "sid": "a000422SZ",
+        "open_at": 1057017600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 7.1,
+            "datetime": 1057017600,
+            "value": 19347.5,
+            "quantity": 2725
+          }
+        ]
+      },
+      {
+        "quantity": 3622,
+        "total_cost": 9.18,
+        "value": 33249.96,
+        "avg_cost": 9.18,
+        "total_commission": 0,
+        "sid": "a000708SZ",
+        "open_at": 1075593600,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 9.18,
+            "datetime": 1075593600,
+            "value": 33249.96,
+            "quantity": 3622
+          }
+        ]
+      },
+      {
+        "quantity": 3220,
+        "total_cost": 6.64,
+        "value": 26307.4,
+        "avg_cost": 6.64,
+        "total_commission": 0,
+        "sid": "a000060SZ",
+        "open_at": 1051747200,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 6.64,
+            "datetime": 1051747200,
+            "value": 21380.8,
+            "quantity": 3220
+          }
+        ]
+      },
+      {
+        "quantity": 2855,
+        "total_cost": 5.49,
+        "value": 17929.4,
+        "avg_cost": 5.49,
+        "total_commission": 0,
+        "sid": "a600685SH",
+        "open_at": 1064966400,
+        "avg_commission": 0,
+        "history": [
+          {
+            "commission": 0,
+            "price": 5.49,
+            "datetime": 1064966400,
+            "value": 15673.95,
+            "quantity": 2855
+          }
+        ]
+      }
+    ],
+    "alpha": "nan",
+    "data": {
+      "/Users/yangqi/ksdesktop/ksDesktop/project/data/price.csv": [
+        {
+          "price": "8.99",
+          "sid": "a600894SH"
+        },
+        {
+          "price": "9.96",
+          "sid": "a600875SH"
+        },
+        {
+          "price": "7.79",
+          "sid": "a600860SH"
+        },
+        {
+          "price": "12.37",
+          "sid": "a600825SH"
+        },
+        {
+          "price": "9.4",
+          "sid": "a600823SH"
+        },
+        {
+          "price": "5.77",
+          "sid": "a600808SH"
+        },
+        {
+          "price": "10.29",
+          "sid": "a600796SH"
+        },
+        {
+          "price": "7.62",
+          "sid": "a600755SH"
+        },
+        {
+          "price": "7.75",
+          "sid": "a600754SH"
+        },
+        {
+          "price": "7.41",
+          "sid": "a600726SH"
+        },
+        {
+          "price": "4.9",
+          "sid": "a600814SH"
+        },
+        {
+          "price": "4.99",
+          "sid": "a600723SH"
+        },
+        {
+          "price": "9.09",
+          "sid": "a600710SH"
+        },
+        {
+          "price": "4.24",
+          "sid": "a600667SH"
+        },
+        {
+          "price": "19.16",
+          "sid": "a600660SH"
+        },
+        {
+          "price": "13.6",
+          "sid": "a600642SH"
+        },
+        {
+          "price": "8.92",
+          "sid": "a600636SH"
+        },
+        {
+          "price": "7.8",
+          "sid": "a600626SH"
+        },
+        {
+          "price": "11.46",
+          "sid": "a600591SH"
+        },
+        {
+          "price": "16.15",
+          "sid": "a600565SH"
+        },
+        {
+          "price": "8.36",
+          "sid": "a600581SH"
+        },
+        {
+          "price": "17.17",
+          "sid": "a600563SH"
+        },
+        {
+          "price": "6.43",
+          "sid": "a600550SH"
+        },
+        {
+          "price": "12.04",
+          "sid": "a600508SH"
+        },
+        {
+          "price": "13.92",
+          "sid": "a600396SH"
+        },
+        {
+          "price": "7.46",
+          "sid": "a600393SH"
+        },
+        {
+          "price": "14.74",
+          "sid": "a600361SH"
+        },
+        {
+          "price": "10.83",
+          "sid": "a600358SH"
+        },
+        {
+          "price": "10.27",
+          "sid": "a600357SH"
+        },
+        {
+          "price": "13.52",
+          "sid": "a600331SH"
+        },
+        {
+          "price": "17.61",
+          "sid": "a600320SH"
+        },
+        {
+          "price": "8.69",
+          "sid": "a600748SH"
+        },
+        {
+          "price": "16.2",
+          "sid": "a600309SH"
+        },
+        {
+          "price": "8.67",
+          "sid": "a600307SH"
+        },
+        {
+          "price": "5.56",
+          "sid": "a600293SH"
+        },
+        {
+          "price": "12.23",
+          "sid": "a600308SH"
+        },
+        {
+          "price": "9.1",
+          "sid": "a600258SH"
+        },
+        {
+          "price": "11.75",
+          "sid": "a600255SH"
+        },
+        {
+          "price": "5.07",
+          "sid": "a600790SH"
+        },
+        {
+          "price": "9.17",
+          "sid": "a600231SH"
+        },
+        {
+          "price": "12.79",
+          "sid": "a600533SH"
+        },
+        {
+          "price": "13.81",
+          "sid": "a600197SH"
+        },
+        {
+          "price": "12.68",
+          "sid": "a600188SH"
+        },
+        {
+          "price": "8.2",
+          "sid": "a600761SH"
+        },
+        {
+          "price": "5.77",
+          "sid": "a600186SH"
+        },
+        {
+          "price": "6.66",
+          "sid": "a600688SH"
+        },
+        {
+          "price": "9.35",
+          "sid": "a600162SH"
+        },
+        {
+          "price": "5.48",
+          "sid": "a600859SH"
+        },
+        {
+          "price": "10.34",
+          "sid": "a600153SH"
+        },
+        {
+          "price": "6.22",
+          "sid": "a600883SH"
+        },
+        {
+          "price": "10.05",
+          "sid": "a600282SH"
+        },
+        {
+          "price": "7.36",
+          "sid": "a600151SH"
+        },
+        {
+          "price": "7.4",
+          "sid": "a600150SH"
+        },
+        {
+          "price": "9.48",
+          "sid": "a600126SH"
+        },
+        {
+          "price": "4.41",
+          "sid": "a600653SH"
+        },
+        {
+          "price": "9.68",
+          "sid": "a600125SH"
+        },
+        {
+          "price": "12.06",
+          "sid": "a600123SH"
+        },
+        {
+          "price": "7.11",
+          "sid": "a600121SH"
+        },
+        {
+          "price": "6.17",
+          "sid": "a600117SH"
+        },
+        {
+          "price": "16.68",
+          "sid": "a600768SH"
+        },
+        {
+          "price": "6.96",
+          "sid": "a000898SZ"
+        },
+        {
+          "price": "8.3",
+          "sid": "a600102SH"
+        },
+        {
+          "price": "9.46",
+          "sid": "a600219SH"
+        },
+        {
+          "price": "7.85",
+          "sid": "a600087SH"
+        },
+        {
+          "price": "8.21",
+          "sid": "a600074SH"
+        },
+        {
+          "price": "13.3",
+          "sid": "a000602SZ"
+        },
+        {
+          "price": "17.14",
+          "sid": "a600066SH"
+        },
+        {
+          "price": "6.46",
+          "sid": "a600063SH"
+        },
+        {
+          "price": "9.76",
+          "sid": "a000012SZ"
+        },
+        {
+          "price": "8.05",
+          "sid": "a000733SZ"
+        },
+        {
+          "price": "12.19",
+          "sid": "a600058SH"
+        },
+        {
+          "price": "6.83",
+          "sid": "a600168SH"
+        },
+        {
+          "price": "11.15",
+          "sid": "a600036SH"
+        },
+        {
+          "price": "9.44",
+          "sid": "a000616SZ"
+        },
+        {
+          "price": "5.08",
+          "sid": "a600028SH"
+        },
+        {
+          "price": "11.28",
+          "sid": "a600500SH"
+        },
+        {
+          "price": "8.24",
+          "sid": "a600026SH"
+        },
+        {
+          "price": "12.02",
+          "sid": "a600008SH"
+        },
+        {
+          "price": "8.98",
+          "sid": "a600362SH"
+        },
+        {
+          "price": "8.2",
+          "sid": "a000960SZ"
+        },
+        {
+          "price": "7.85",
+          "sid": "a000975SZ"
+        },
+        {
+          "price": "15.81",
+          "sid": "a600770SH"
+        },
+        {
+          "price": "8.23",
+          "sid": "a000968SZ"
+        },
+        {
+          "price": "6.78",
+          "sid": "a600071SH"
+        },
+        {
+          "price": "6.44",
+          "sid": "a000151SZ"
+        },
+        {
+          "price": "7.44",
+          "sid": "a000949SZ"
+        },
+        {
+          "price": "9.31",
+          "sid": "a000608SZ"
+        },
+        {
+          "price": "13.31",
+          "sid": "a000939SZ"
+        },
+        {
+          "price": "8.74",
+          "sid": "a000930SZ"
+        },
+        {
+          "price": "13.27",
+          "sid": "a000933SZ"
+        },
+        {
+          "price": "5.79",
+          "sid": "a600152SH"
+        },
+        {
+          "price": "4.83",
+          "sid": "a000886SZ"
+        },
+        {
+          "price": "6.62",
+          "sid": "a000878SZ"
+        },
+        {
+          "price": "10.97",
+          "sid": "a600428SH"
+        },
+        {
+          "price": "6.49",
+          "sid": "a000419SZ"
+        },
+        {
+          "price": "13.57",
+          "sid": "a000858SZ"
+        },
+        {
+          "price": "10.77",
+          "sid": "a600530SH"
+        },
+        {
+          "price": "5.77",
+          "sid": "a000837SZ"
+        },
+        {
+          "price": "6.89",
+          "sid": "a000831SZ"
+        },
+        {
+          "price": "16.8",
+          "sid": "a000839SZ"
+        },
+        {
+          "price": "9.03",
+          "sid": "a000826SZ"
+        },
+        {
+          "price": "6.12",
+          "sid": "a000848SZ"
+        },
+        {
+          "price": "5.57",
+          "sid": "a000825SZ"
+        },
+        {
+          "price": "15.91",
+          "sid": "a000793SZ"
+        },
+        {
+          "price": "6.93",
+          "sid": "a600179SH"
+        },
+        {
+          "price": "5.8",
+          "sid": "a000913SZ"
+        },
+        {
+          "price": "6.05",
+          "sid": "a000890SZ"
+        },
+        {
+          "price": "6.28",
+          "sid": "a600685SH"
+        },
+        {
+          "price": "8.47",
+          "sid": "a000822SZ"
+        },
+        {
+          "price": "5.71",
+          "sid": "a000709SZ"
+        },
+        {
+          "price": "5.33",
+          "sid": "a000786SZ"
+        },
+        {
+          "price": "7.44",
+          "sid": "a000758SZ"
+        },
+        {
+          "price": "6.78",
+          "sid": "a600779SH"
+        },
+        {
+          "price": "9.16",
+          "sid": "a000090SZ"
+        },
+        {
+          "price": "6.47",
+          "sid": "a000755SZ"
+        },
+        {
+          "price": "8.25",
+          "sid": "a600160SH"
+        },
+        {
+          "price": "10.79",
+          "sid": "a000752SZ"
+        },
+        {
+          "price": "8.28",
+          "sid": "a600531SH"
+        },
+        {
+          "price": "10.59",
+          "sid": "a000983SZ"
+        },
+        {
+          "price": "5.86",
+          "sid": "a000751SZ"
+        },
+        {
+          "price": "9.38",
+          "sid": "a000701SZ"
+        },
+        {
+          "price": "8.13",
+          "sid": "a600091SH"
+        },
+        {
+          "price": "8.82",
+          "sid": "a000911SZ"
+        },
+        {
+          "price": "15.14",
+          "sid": "a600585SH"
+        },
+        {
+          "price": "9.35",
+          "sid": "a000680SZ"
+        },
+        {
+          "price": "18.15",
+          "sid": "a600011SH"
+        },
+        {
+          "price": "6.5",
+          "sid": "a000666SZ"
+        },
+        {
+          "price": "4.74",
+          "sid": "a000683SZ"
+        },
+        {
+          "price": "4.65",
+          "sid": "a000627SZ"
+        },
+        {
+          "price": "4.7",
+          "sid": "a000573SZ"
+        },
+        {
+          "price": "7.43",
+          "sid": "a600105SH"
+        },
+        {
+          "price": "10.7",
+          "sid": "a000554SZ"
+        },
+        {
+          "price": "6.65",
+          "sid": "a000690SZ"
+        },
+        {
+          "price": "5.01",
+          "sid": "a000594SZ"
+        },
+        {
+          "price": "5.23",
+          "sid": "a000576SZ"
+        },
+        {
+          "price": "5.51",
+          "sid": "a000510SZ"
+        },
+        {
+          "price": "6.68",
+          "sid": "a600655SH"
+        },
+        {
+          "price": "9.28",
+          "sid": "a600578SH"
+        },
+        {
+          "price": "9.68",
+          "sid": "a000099SZ"
+        },
+        {
+          "price": "10.7",
+          "sid": "a000528SZ"
+        },
+        {
+          "price": "17.06",
+          "sid": "a600327SH"
+        },
+        {
+          "price": "3.2",
+          "sid": "a000571SZ"
+        },
+        {
+          "price": "9.54",
+          "sid": "a000677SZ"
+        },
+        {
+          "price": "10.45",
+          "sid": "a600426SH"
+        },
+        {
+          "price": "6.52",
+          "sid": "a000511SZ"
+        },
+        {
+          "price": "17.73",
+          "sid": "a000997SZ"
+        },
+        {
+          "price": "5.84",
+          "sid": "a600221SH"
+        },
+        {
+          "price": "6.17",
+          "sid": "a000570SZ"
+        },
+        {
+          "price": "6.83",
+          "sid": "a000959SZ"
+        },
+        {
+          "price": "11.73",
+          "sid": "a000630SZ"
+        },
+        {
+          "price": "5.23",
+          "sid": "a600069SH"
+        },
+        {
+          "price": "4.79",
+          "sid": "a000707SZ"
+        },
+        {
+          "price": "17.3",
+          "sid": "a000050SZ"
+        },
+        {
+          "price": "4.65",
+          "sid": "a000568SZ"
+        },
+        {
+          "price": "14.21",
+          "sid": "a600797SH"
+        },
+        {
+          "price": "7.79",
+          "sid": "a600569SH"
+        },
+        {
+          "price": "5.79",
+          "sid": "a000548SZ"
+        },
+        {
+          "price": "9.43",
+          "sid": "a000807SZ"
+        },
+        {
+          "price": "9.18",
+          "sid": "a000708SZ"
+        },
+        {
+          "price": "10.15",
+          "sid": "a000531SZ"
+        },
+        {
+          "price": "8.64",
+          "sid": "a600725SH"
+        },
+        {
+          "price": "9.94",
+          "sid": "a000903SZ"
+        },
+        {
+          "price": "7.76",
+          "sid": "a600278SH"
+        },
+        {
+          "price": "6.95",
+          "sid": "a000612SZ"
+        },
+        {
+          "price": "16.16",
+          "sid": "a600740SH"
+        },
+        {
+          "price": "10.07",
+          "sid": "a000969SZ"
+        },
+        {
+          "price": "6.18",
+          "sid": "a000533SZ"
+        },
+        {
+          "price": "6.9",
+          "sid": "a600736SH"
+        },
+        {
+          "price": "8.04",
+          "sid": "a600592SH"
+        },
+        {
+          "price": "8.63",
+          "sid": "a600277SH"
+        },
+        {
+          "price": "7.42",
+          "sid": "a000520SZ"
+        },
+        {
+          "price": "5.9",
+          "sid": "a600861SH"
+        },
+        {
+          "price": "6.32",
+          "sid": "a600622SH"
+        },
+        {
+          "price": "11.81",
+          "sid": "a000717SZ"
+        },
+        {
+          "price": "8.37",
+          "sid": "a000507SZ"
+        },
+        {
+          "price": "8.17",
+          "sid": "a000422SZ"
+        },
+        {
+          "price": "7.42",
+          "sid": "a000006SZ"
+        },
+        {
+          "price": "8.69",
+          "sid": "a000043SZ"
+        },
+        {
+          "price": "11.63",
+          "sid": "a000937SZ"
+        },
+        {
+          "price": "9.15",
+          "sid": "a000042SZ"
+        },
+        {
+          "price": "6.21",
+          "sid": "a600192SH"
+        },
+        {
+          "price": "4.93",
+          "sid": "a000818SZ"
+        },
+        {
+          "price": "7.37",
+          "sid": "a600019SH"
+        },
+        {
+          "price": "8.38",
+          "sid": "a000962SZ"
+        },
+        {
+          "price": "6.19",
+          "sid": "a600110SH"
+        },
+        {
+          "price": "20.69",
+          "sid": "a000039SZ"
+        },
+        {
+          "price": "8.17",
+          "sid": "a000060SZ"
+        },
+        {
+          "price": "9.46",
+          "sid": "a600333SH"
+        },
+        {
+          "price": "10.36",
+          "sid": "a000001SZ"
+        }
+      ],
+      "/Users/yangqi/ksdesktop/ksDesktop/project/data/benchmarkhs300.csv": [
+        {
+          "hushen300.SH": "1351.61"
+        }
+      ]
+    },
+    "orders": [
+      {
+        "orderid": "3a71bdb77dca4090a92b9a020560071a",
+        "price": 4.65,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000627SZ",
+        "quantity": 5668
+      },
+      {
+        "orderid": "00c9dcd013b74cb590424fb89abdcf2c",
+        "price": 6.78,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600779SH",
+        "quantity": -3355
+      },
+      {
+        "orderid": "8914be47546b4d02adc53b393640a33d",
+        "price": 13.81,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600197SH",
+        "quantity": -2239
+      },
+      {
+        "orderid": "c4a9915f32bd4e4db3bc18837fbde86b",
+        "price": 4.74,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000683SZ",
+        "quantity": 4704
+      },
+      {
+        "orderid": "f19d1928042940a58ea76a69baa2845f",
+        "price": 7.85,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000975SZ",
+        "quantity": -2705
+      },
+      {
+        "orderid": "7e89f7d6174840069f7917107a45e8eb",
+        "price": 10.05,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600282SH",
+        "quantity": -2113
+      },
+      {
+        "orderid": "6f3d281ea44c48c8880fd29232a0bfe1",
+        "price": 5.57,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000825SZ",
+        "quantity": -3883
+      },
+      {
+        "orderid": "c011ee97460f49d9b861f43ecbb4b335",
+        "price": 4.9,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600814SH",
+        "quantity": 4557
+      },
+      {
+        "orderid": "c9a642854828493e85c4ba85ddb4644d",
+        "price": 9.18,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000708SZ",
+        "quantity": 3622
+      },
+      {
+        "orderid": "33d4a8de1c5c49dd8c7d8911e8e36735",
+        "price": 6.19,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600110SH",
+        "quantity": 4175
+      },
+      {
+        "orderid": "bd577e2f310743eda10cbc24b632305e",
+        "price": 17.61,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600320SH",
+        "quantity": -1383
+      },
+      {
+        "orderid": "279d7c650b494b09b846f4f3c26a26d7",
+        "price": 9.54,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000677SZ",
+        "quantity": -3095
+      },
+      {
+        "orderid": "850f20b3a534449b977e3686cb013931",
+        "price": 10.36,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000001SZ",
+        "quantity": 2205
+      },
+      {
+        "orderid": "2f0e0e04858a4462b7bfa04efdf3fa11",
+        "price": 4.93,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000818SZ",
+        "quantity": 4578
+      },
+      {
+        "orderid": "7ff7e1bdbd50413c9d7e24b1957dcbba",
+        "price": 8.67,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600307SH",
+        "quantity": -3135
+      },
+      {
+        "orderid": "bc919a7840da43c4a6761c314ecec8fe",
+        "price": 16.2,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600309SH",
+        "quantity": -1411
+      },
+      {
+        "orderid": "d1392927251045338b1efcea87525235",
+        "price": 20.69,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000039SZ",
+        "quantity": -959
+      },
+      {
+        "orderid": "4e832b2b62a341e3b4a588b5efbbea81",
+        "price": 6.52,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000511SZ",
+        "quantity": 3327
+      },
+      {
+        "orderid": "382a46c45ffa4dea80980c3f0f48506b",
+        "price": 6.18,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000533SZ",
+        "quantity": -3793
+      },
+      {
+        "orderid": "7fb92bca5886435d8a16922cd19ed8d4",
+        "price": 4.7,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000573SZ",
+        "quantity": 4726
+      },
+      {
+        "orderid": "f5f50b96783b4e02bf3b9d0a09f824c1",
+        "price": 8.2,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600761SH",
+        "quantity": 2692
+      },
+      {
+        "orderid": "145bdc057ebb4754afc05fe75aa7dd4f",
+        "price": 11.75,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600255SH",
+        "quantity": 2048
+      },
+      {
+        "orderid": "c8692539ace7467c940349f7dd1d0267",
+        "price": 11.63,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000937SZ",
+        "quantity": 1909
+      },
+      {
+        "orderid": "9607b07cca1046dea62fd33cf359a072",
+        "price": 8.36,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600581SH",
+        "quantity": -2776
+      },
+      {
+        "orderid": "be86a761c5f24a0fa165d18f24bb627b",
+        "price": 6.47,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000755SZ",
+        "quantity": -3515
+      },
+      {
+        "orderid": "99380e9d61c44f6196a8edc673b6dc80",
+        "price": 7.42,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000006SZ",
+        "quantity": 3571
+      },
+      {
+        "orderid": "324894f590ba491f9cb5ed107039c842",
+        "price": 13.57,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a000858SZ",
+        "quantity": -1718
+      },
+      {
+        "orderid": "7c0e73a9fe1d47529fc99b120f86a05f",
+        "price": 8.69,
+        "time": 1075593600,
+        "commission": 0,
+        "sid": "a600748SH",
+        "quantity": 2838
+      }
+    ],
+    "volatility": 0.7941092464489873
+  }
+}

@@ -1,41 +1,56 @@
 require('./less/main.less');
+require('./less/d3-container.less');
+require('bootstrap/dist/css/bootstrap.min.css');
 import React from 'react';
-import ReactDatagrid from './component/react-datagrid';
-
+//import ReactDatagrid from './component/react-datagrid';
+import $ from 'jquery';
+window.$ = window.jQuery = $;
+//注册插件
+require('bootstrap');
+require('jquery.terminal');
 ///////////
 //config //
 ///////////
-let tabsArr = [{title:'react-datagrid',component:<ReactDatagrid />}];
+let tabsArr = [
+	{title:'react-datagrid',component:'./component/react-datagrid'},
+	{title:'boostrap',component:'./component/bootstrap'},
+	{title:'animations',component:'./component/animations'},
+	{title:'terminal',component:'./component/terminal'},
+	{title:'widgets',component:'./component/widgets'},
+	{title:'d3',component:'./component/d3'},
+	{title:'window.selection',component:'./component/selection'},
+	{title:'choose',component:'./component/choose'},
+	{title:'fixedDataTable',component:'./component/fixedDataTable'},
+	];
 
 
-let Tab = React.createClass({
-	handleClick(){
-		this.props.handSelect(this.props.index);
-	},
-	render(){
-		return <span className={'tab'+(this.props.selected?' selected':'')} onClick={this.handleClick}>{this.props.title}</span>;
-	}
-});
 
 let Main = React.createClass({
 	getInitialState(){
-		return {index:0};
+		return {current:(<h3>请选择</h3>),index:-1};
 	},
 	handleSelectComponent(index){
-		this.setState({index:index});
+		require.ensure([], () => {
+			let data = this.props.data;
+			let Current = require(data[index].component);
+			this.setState({index:index,current:<Current />});
+		});
 	},
+
 	render(){
 		let data = this.props.data;
 		let tabNodes = [];
 		let that = this;
 		tabNodes = data.map(function(e,i){
-			return <Tab title={e.title} index={i} handSelect={that.handleSelectComponent} selected={that.state.index==i} />;
+			return <span className={'tab'+(that.state.index==i?' selected':'')} onClick={that.handleSelectComponent.bind(that,i)}>{e.title}</span>;
 		});
-		let node = data[this.state.index].component;
+		//let DataGrid = require(data[this.state.index].component);
 		return <div className='main'>
-			<div>{tabNodes}</div>
+			<div>
+				{tabNodes}
+			</div>
 			<hr/>
-			{node}
+			{this.state.current}
 		</div>;
 	}
 });

@@ -24,3 +24,52 @@
 	background-color: #aaf;
 	color: #fff;
 }
+
+//animations
+.folding-cube{
+	width: 80px;
+	height: 80px;
+	//transform: rotateZ(45deg);
+	margin-left: 50px;
+	
+	@keyframes sk-foldCubeAngle {
+	    0%, 10% {
+	        -webkit-transform: perspective(140px) rotateX(-180deg);
+	        transform: perspective(140px) rotateX(-180deg);
+	        opacity: 0;
+	    } 25%, 75% {
+	          -webkit-transform: perspective(140px) rotateX(0deg);
+	          transform: perspective(140px) rotateX(0deg);
+	          opacity: 1;
+	      } 90%, 100% {
+	            -webkit-transform: perspective(140px) rotateY(180deg);
+	            transform: perspective(140px) rotateY(180deg);
+	            opacity: 0;
+	        }
+		}
+
+	.cube{
+		float: left;
+		width: 50%;
+		height: 50%;
+		background-color: #444;
+		animation: sk-foldCubeAngle 2.4s infinite linear both; 
+		-webkit-transform-origin: 100% 100%;
+	}
+	.cube1{
+		
+	}
+	.cube2{
+		animation-delay: 0.3s;
+		transform: scale(1.1) rotateZ(90deg);
+	}
+	.cube3{
+		animation-delay: 0.6s;
+		transform: scale(1.1) rotateZ(180deg);
+	}
+	.cube4{
+		animation-delay: 0.9s;
+		transform: scale(1.1) rotateZ(270deg);
+	}
+
+}
